@@ -1,0 +1,9 @@
+C:\Users\Enderson Yunda\source\repos\parcial\parcial\parcial\obj\Debug\netstandard2.0\parcial.csprojAssemblyReference.cache
+C:\Users\Enderson Yunda\source\repos\parcial\parcial\parcial\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Enderson Yunda\source\repos\parcial\parcial\parcial\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Enderson Yunda\source\repos\parcial\parcial\parcial\obj\Debug\netstandard2.0\PerfilPage.xaml.g.cs
+C:\Users\Enderson Yunda\source\repos\parcial\parcial\parcial\obj\Debug\netstandard2.0\parcial.csproj.CoreCompileInputs.cache
+C:\Users\Enderson Yunda\source\repos\parcial\parcial\parcial\obj\Debug\netstandard2.0\parcial.AssemblyInfoInputs.cache
+C:\Users\Enderson Yunda\source\repos\parcial\parcial\parcial\obj\Debug\netstandard2.0\parcial.AssemblyInfo.cs
+C:\Users\Enderson Yunda\source\repos\parcial\parcial\parcial\bin\Debug\netstandard2.0\parcial.deps.json
+C:\Users\Enderson Yunda\source\repos\parcial\parcial\parcial\bin\Debug\netstandard2.0\parcial.dll
